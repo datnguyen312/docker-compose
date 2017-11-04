@@ -1,0 +1,7 @@
+##Command run docker-compose
+Step 1: docker-compose build
+Step 2: docker-compose images ( check images)
+Step 3: docker-compose up -d ( run images)
+Step 4: docker-compose run --rm app node bin/load-data ( test data)
++ docker-compose rm (remove all images)
+https://github.com/damsonn/node-docker-compose
